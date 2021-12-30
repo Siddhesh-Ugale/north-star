@@ -56,6 +56,11 @@
 /*---------------------------------------
   02. Scroll To Top
 ----------------------------------------*/
+html {
+    scroll-behavior: smooth;
+}
+
+
  #scrollUp {
     border-radius: 2px;
     bottom: 80px;
