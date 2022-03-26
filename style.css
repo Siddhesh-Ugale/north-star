@@ -544,6 +544,31 @@ About 2
     margin-top: 30px;
 }
 
+.external-links {
+    text-align: center;
+    margin-top: 5rem;
+}
+.external-links h1 {
+    font-size: 1.5rem;
+    color: #fcc236;
+}
+
+.projectbtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.projectbtn a {
+    margin: 1rem;
+    color: #F5F5F5;
+}
+.projectbtn a:visited {
+    color: #fff;
+}
+.projectbtn a:hover {
+    color: #fcc236;
+    background-color: #fff;
+}
 /*---------------------------------------
   07. Call to Action Area
 ----------------------------------------*/
