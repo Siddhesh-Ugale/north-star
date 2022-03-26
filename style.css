@@ -558,16 +558,18 @@ About 2
     justify-content: center;
     align-items: center;
 }
-.projectbtn a {
+.projectbtn button {
     margin: 1rem;
     color: #F5F5F5;
+    border: none;
 }
-.projectbtn a:visited {
+.projectbtn button:visited {
     color: #fff;
 }
-.projectbtn a:hover {
+.projectbtn button:hover {
     color: #fcc236;
     background-color: #fff;
+    /* border: 1px solid #fcc236; */
 }
 /*---------------------------------------
   07. Call to Action Area
