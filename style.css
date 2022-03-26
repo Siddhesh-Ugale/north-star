@@ -563,10 +563,10 @@ About 2
     color: #F5F5F5;
     border: none;
 }
-.projectbtn button:visited {
+.projectbtn a:visited {
     color: #fff;
 }
-.projectbtn button:hover {
+.projectbtn a:hover {
     color: #fcc236;
     background-color: #fff;
     /* border: 1px solid #fcc236; */
