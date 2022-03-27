@@ -88,7 +88,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #fcc236;
+    background: #55a0aa;
     transition: background 1s;
 }
 
@@ -167,7 +167,7 @@ html {
     color: #fff;
 }
  #scrollUp {
-    background: #fcc236 none repeat scroll 0 0;
+    background: #55a0aa none repeat scroll 0 0;
 }
  
 
@@ -222,7 +222,7 @@ html {
     position: relative;
 }
 .about__inner.about__hober__info {
-    background: #fcc236 none repeat scroll 0 0;
+    background: #55a0aa none repeat scroll 0 0;
     height: 100%;
     left: 0;
     position: absolute;
@@ -268,7 +268,7 @@ About 2
     color: #1f2d30;
 }
 .about--2 .about__inner.about__hober__info {
-    background: #fcc236 none repeat scroll 0 0;
+    background: #55a0aa none repeat scroll 0 0;
 }
 .about--2 .about__inner.about__hober__info h2 {
     color: #fff;
@@ -334,7 +334,7 @@ About 2
     z-index: 2;
 }
 .service__hover::before {
-    background: #fcc236 none repeat scroll 0 0;
+    background: #55a0aa none repeat scroll 0 0;
     content: "";
     height: 100%;
     opacity: 0.85;
@@ -480,7 +480,7 @@ About 2
     z-index: 4;
 }
 .project__hover__info {
-    background: rgba(252, 194, 54, 0.9) none repeat scroll 0 0;
+    background: rgba(85, 160, 170, 0.9) none repeat scroll 0 0;
     height: 100%;
     left: 0;
     opacity: 0;
@@ -550,7 +550,7 @@ About 2
 }
 .external-links h1 {
     font-size: 1.5rem;
-    color: #fcc236;
+    color: #55a0aa;
 }
 
 .projectbtn {
@@ -567,9 +567,9 @@ About 2
     color: #fff;
 }
 .projectbtn a:hover {
-    color: #fcc236;
+    color: #55a0aa;
     background-color: #fff;
-    /* border: 1px solid #fcc236; */
+    /* border: 1px solid #55a0aa; */
 }
 /*---------------------------------------
   07. Call to Action Area
@@ -599,8 +599,8 @@ About 2
     transition: all 0.5s ease 0s;
 }
 .htc__btn--transparent:hover {
-    background: #fcc236 none repeat scroll 0 0;
-    border: 1px solid #fcc236;
+    background: #55a0aa none repeat scroll 0 0;
+    border: 1px solid #55a0aa;
     color: #fff;
 }
 .callto__action__wrap{
@@ -710,7 +710,7 @@ About 2
 }
 .htc__testimonial__wrap .slick-dots li.slick-active button::before,
 .htc__testimonial__wrap .slick-dots li button:hover::before {
-    background: #fcc236 none repeat scroll 0 0;
+    background: #55a0aa none repeat scroll 0 0;
     opacity: 1;
 }
 
@@ -951,7 +951,7 @@ About 2
     text-align: center;
 }
 .download__project h2 {
-    color: #fcc236;
+    color: #55a0aa;
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -993,7 +993,7 @@ About 2
     padding-right: 10px;
 }
 .facts__list li a:hover {
-    color: #fcc236;
+    color: #55a0aa;
 }
 
 /*---------------------------------------
@@ -1054,7 +1054,7 @@ About 2
     margin-right: 18px;
 }
 .ct__details p a:hover {
-    color: #fcc236;
+    color: #55a0aa;
 }
 #googleMap {
     height: 470px;
