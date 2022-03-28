@@ -290,13 +290,13 @@ About 2
 }
 
 .text__shape h2 {
-    color: #f7f7f7;
+    color: #eeeeee;
     font-family: Josefin Sans;
     font-size: 84px;
     font-weight: 700;
     letter-spacing: 15px;
     writing-mode: vertical-rl;
-    transform: rotate(180deg) translateY(50%)  translateX(0);
+    transform: rotate(180deg) translateY(70%)  translateX(0);
 }
 
 /*---------------------------------------
