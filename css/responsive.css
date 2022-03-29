@@ -273,6 +273,11 @@
   height: 110px;
   line-height: 110px;
 }
+.logo a img {
+  height: 3rem;
+  width: auto;
+}
+
 .htc__header__search {
   height: 110px;
 }
@@ -418,6 +423,12 @@
   height: 80px;
   line-height: 80px;
 }
+
+.logo a img {
+  height: 3rem;
+  width: auto;
+}
+
 .htc__header__search {
   height: 80px;
 }
@@ -799,6 +810,12 @@ blockquote {
   height: 80px;
   line-height: 80px;
 }
+
+.logo a img {
+  height: 2.5rem;
+  width: auto;
+}
+
 .htc__header__search {
   height: 80px;
 }
