@@ -107,6 +107,7 @@ html {
     width: 45px;
     z-index: 200;
     bottom: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 #scrollUp:hover {
 }
